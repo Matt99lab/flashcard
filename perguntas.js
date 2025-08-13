@@ -1,23 +1,12 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    '1',
+    'Quem é o personagem principal e qual é o tema do filme?',
+    'O personagem principal do filme é o Jackie Robinson. O tema principal do filme é a superação e a luta pelos direitos civis'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    '2',
+    'Em que periodo e pais a história se passa? E qual é o contexto histórico',
+    'O filme se passa em 1946,retrata o contexto histórico'
 )
 
-criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
-)
-
-criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
-)
